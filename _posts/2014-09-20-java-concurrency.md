@@ -1,6 +1,6 @@
 ---
 layout: default
-title: java 的 concurrency
+title: Java 中的并发
 ---
 
 
