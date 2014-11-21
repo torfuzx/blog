@@ -1,5 +1,5 @@
 username: torfuzx
-baseurl: 
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
