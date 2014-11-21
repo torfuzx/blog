@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unbuntu 下的Nsq搭建
+title: Unbuntu 下的 Nsq环境搭建
 ---
 
 从NSQ源码安装
