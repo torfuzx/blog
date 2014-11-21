@@ -2,9 +2,6 @@
 layout: default
 title: Ubuntu 下的 ElasticSearch搭建
 ---
-
-
-elasticsearch开发环境搭建
 ======================
 
 ###elasticsearch可部署到ubuntu或windows平台
