@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubuntu 下的 ElasticSearch搭建
+title: Ubuntu 下的 ElasticSearch环境搭建
 ---
 ======================
 
