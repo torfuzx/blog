@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubuntu 下的 ZooKeeper环境搭建
+title: Ubuntu下的ZooKeeper环境搭建
 ---
 ====================
 
