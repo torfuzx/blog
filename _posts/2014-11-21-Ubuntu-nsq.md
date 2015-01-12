@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubuntu 下的 Nsq环境搭建
+title: Ubuntu下的Nsq环境搭建
 ---
 =============
 从NSQ源码安装
