@@ -56,7 +56,6 @@ nsqd --lookupd-tcp-address=127.0.0.1:4160
 
 #### 4.3 nsqadmin
 
-
 在一个单独的终端中：
 ```bash
 nsqadmin --lookupd-http-address=127.0.0.1:4161
