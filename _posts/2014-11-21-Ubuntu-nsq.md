@@ -14,7 +14,7 @@ title: Ubuntu下的Nsq环境搭建
 
 ### 1. 安装godeps
 
-```bash
+```
 cd ~/Projects
 git clone https://github.com/pote/gpm.git && cd gpm
 git checkout v1.3.1 # You can ignore this part if you want to install HEAD.
