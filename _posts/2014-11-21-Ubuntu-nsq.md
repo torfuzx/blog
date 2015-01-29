@@ -14,7 +14,7 @@ title: Ubuntu下的Nsq环境搭建
 
 ### 1. 安装godeps
 
-```bash
+```
 cd ~/Projects
 git clone https://github.com/pote/gpm.git && cd gpm
 git checkout v1.3.1 # You can ignore this part if you want to install HEAD.
@@ -24,14 +24,14 @@ make install
 
 ### 2.下载NSQ源码
 
-```bash
+```
 cd ~/Projects
 git clone https://github.com/bitly/nsq.git
 ```
 
 ### 3. 对NSQ安装包编译并测试
 
-```bash
+```
 cd ~/Projects/nsq
 gpm install
 go get github.com/bitly/nsq/...
@@ -42,7 +42,7 @@ go get github.com/bitly/nsq/...
 #### 4.1 nsqlookupd
 
 在一个单独的终端中：
-```bash
+```
 nsqlookupd
 ```
 
@@ -50,14 +50,14 @@ nsqlookupd
 
 在一个单独的终端中：
 
-```bash
+```
 nsqd --lookupd-tcp-address=127.0.0.1:4160
 ```
 
 #### 4.3 nsqadmin
 
 在一个单独的终端中：
-```bash
+```
 nsqadmin --lookupd-http-address=127.0.0.1:4161
 ```
 
