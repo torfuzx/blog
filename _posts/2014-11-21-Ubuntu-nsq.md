@@ -42,6 +42,7 @@ go get github.com/bitly/nsq/...
 #### 4.1 nsqlookupd
 
 在一个单独的终端中：
+
 ```
 nsqlookupd
 ```
@@ -57,6 +58,7 @@ nsqd --lookupd-tcp-address=127.0.0.1:4160
 #### 4.3 nsqadmin
 
 在一个单独的终端中：
+
 ```
 nsqadmin --lookupd-http-address=127.0.0.1:4161
 ```
